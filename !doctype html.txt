@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Kristenelle Seira S. Quindoza - Resume</title>
+</head>
+<body>
+
+  <h2>Kristenelle Seira S. Quindoza</h2>
+  <p>
+    Cavite, Philippines<br>
+    (0975) 637-4644<br>
+    <a href="mailto:kristenelle.quindoza@futurenet.com">kristenelle.quindoza@futurenet.com</a>
+  </p>
+
+  <h3>Profile</h3>
+  <p>
+    Visionary software architect and AI leader with 9+ years of experience building scalable products
+    and leading international teams. Passionate about human-centered design, ethical AI, and helping
+    new developers grow.
+  </p>
+
+  <h3>Experience</h3>
+
+  <p><b>NeuralLink Asia — Chief Technology Officer</b><br>
+  2036 — Present</p>
+  <ul>
+    <li>Developed Asia's first consumer-grade neural interface.</li>
+    <li>Managed engineering teams across five countries.</li>
+    <li>Reduced input latency by 48% using hybrid neural–AI prediction models.</li>
+  </ul>
+
+  <p><b>Solara Innovations — Lead Software Architect</b><br>
+  2031 — 2036</p>
+  <ul>
+    <li>Built an AI-powered health-monitoring system used by 1M+ users.</li>
+    <li>Led coding education programs across Southeast Asia.</li>
+    <li>Named "Tech Visionary of the Year" by FutureCode PH.</li>
+  </ul>
+
+  <p><b>PixelForge Solutions — Software Developer (Intern to Senior)</b><br>
+  2028 — 2032</p>
+  <ul>
+    <li>Developed immersive VR tools for education in underserved communities.</li>
+    <li>Introduced low-code platforms, speeding delivery by 30%.</li>
+    <li>Co-founded Code4She, a nationwide coding bootcamp for girls.</li>
+  </ul>
+
+  <h3>Education</h3>
+
+  <p><b>University of Technologica — Tokyo, Japan</b><br>
+  Ph.D. in Artificial Intelligence &amp; Human–Computer Interaction<br>
+  2032 — 2036</p>
+  <ul>
+    <li>Focused on neural interfaces, emotion-aware systems, and ethical machine learning.</li>
+    <li>Research published at IEEE and ACM conferences.</li>
+  </ul>
+
+  <p><b>Unida Christian Colleges — Cavite, Philippines</b><br>
+  Bachelor of Science in Information Technology<br>
+  2027 — 2031</p>
+  <ul>
+    <li>Specialized in full-stack development and mobile computing.</li>
+  </ul>
+
+  <p><b>Unida Christian Colleges — Cavite, Philippines</b><br>
+  Senior High School — ICT Computer Programming<br>
+  2025 — 2027</p>
+
+  <h3>Tech Skills</h3>
+  <ul>
+    <li>Languages: Python, JavaScript, Swift, Kotlin, Rust</li>
+    <li>Frameworks: React, Django, Flutter, TensorFlow, PyTorch</li>
+    <li>Tools: Git, Figma, Docker, Firebase, Kubernetes</li>
+    <li>Platforms: Web3, AR/VR, Cloud (AWS, GCP)</li>
+  </ul>
+
+  <h3>Awards</h3>
+  <ul>
+    <li>ASEAN Tech Leadership Award — 2036</li>
+    <li>Google Women in Tech Global Fellow — 2034</li>
+  </ul>
+
+</body>
+</html>
